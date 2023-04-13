@@ -5,6 +5,11 @@ import com.spring.demo.SpringBoot3.enuns.Status;
 
 import javax.persistence.*;
 
+/**Classe do tipo Contêiner.
+* @author Josue Silva Rosa
+* @version java 11
+*/
+
 
 @Table( name = "conteiners")
 @Entity
