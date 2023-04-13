@@ -1,5 +1,10 @@
 package com.spring.demo.SpringBoot3.entity;
 
+/**Classe do tipo Sumario, vai fazer total de sumário do meu tipo de movimentação.
+* @author Josue Silva Rosa
+* @version java 11
+*/
+
 public class Sumario {
     private long totalImportacao;
     private long totalExportacao;
