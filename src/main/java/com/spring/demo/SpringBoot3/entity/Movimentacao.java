@@ -5,6 +5,11 @@ import com.spring.demo.SpringBoot3.enuns.TipoMovimentacao;
 import javax.persistence.*;
 import java.time.LocalDateTime;
 
+/**Classe do tipo Movimentacao.
+* @author Josue Silva Rosa
+* @version java 11
+*/
+
 @Table(name = "movimentacoes")
 @Entity
 public class Movimentacao {
